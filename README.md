@@ -1,2 +1,2 @@
 # Editor-de-imagem
-Editor de imagem
+Tentando criar projetos utilizando bibliotecas
