@@ -17,6 +17,6 @@ em Python, utilizando a biblioteca PIL.
 in Python, using the PIL library.
 ## Stack utilizada
 
-**Back-end:** VS Code | Javascript
+**Back-end:** Pycharm | Python
 
 **Library:** PIL
