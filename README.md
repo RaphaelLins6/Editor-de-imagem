@@ -8,7 +8,7 @@ primeira experiência.
 watched an online guided tutorial, so I could have my
 first experience.
 
-# Aprendizados | Learnings
+## Aprendizados | Learnings
 
 ☠️ Nesse tutorial é ensinado a fazer um editor de imagem
 em Python, utilizando a biblioteca PIL.
@@ -16,7 +16,7 @@ em Python, utilizando a biblioteca PIL.
 ☠️ In this tutorial is taught how to make an image editor
 in Python, using the PIL library.
 
-# Stack utilizada | Stack used
+## Stack utilizada | Stack used
 
 **Back-end:** Pycharm | Python
 
